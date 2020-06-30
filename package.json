@@ -1,0 +1,24 @@
+{
+  "name": "resumepdf",
+  "version": "1.0.0",
+  "description": "This document represents a brief history of my (professional) career devewloping software. To learn more, please visit:",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-kendall": "^0.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-saints/resumepdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-saints/resumepdf/issues"
+  },
+  "homepage": "https://github.com/coding-saints/resumepdf#readme"
+}
